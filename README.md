@@ -4,4 +4,4 @@
 ### Responsable de la entrega:
 | N° SIU | Apellidos, Nombres     | Fecha    | Deadline | 
 | :----- | :--------------------- | :------: | :-------: | 
-| e2612  | Portugal, Javier       |          | Semana 04 |
+| e2612  | Portugal, Javier       | May 23 26| Semana 04 |
